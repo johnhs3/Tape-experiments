@@ -1,4 +1,4 @@
-# Tape_stuff
+# Tape-experiments
 Experiments for going between audio casette tape and digital data.
 
 Right now this uses an old program for DOS, which uses the Kansas City Standard to encode and decode to DAT drives.
